@@ -1,0 +1,22 @@
+.body{
+    margin: 0%;
+}
+.menu-bar{
+    width: 100%;
+    background-color: orange;
+    float: left;
+}
+.menu{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.menu ul li {
+    float: left;
+}
+.menu ul li{
+    display: block;
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+}
